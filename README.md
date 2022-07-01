@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning HTML, CSS, JavaScript and React
-- 📫 How to reach me: Instagram @ptrk_l / E-Mail: lakatos.p@gmx.de
+- 📫 How to reach me: Instagram @ptrk_l / E-Mail: lktpriv@gmail.com
           ![lptrk's GitHub stats](https://github-readme-stats.vercel.app/api?username=lptrk&theme=dark&show_icons=true)
           
 ### Currently learning and improving 👨‍🔬
